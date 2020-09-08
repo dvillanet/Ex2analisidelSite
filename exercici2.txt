@@ -1,0 +1,27 @@
+Cercar Llibres
+Navegar per les diferents opcions
+Donar-se d'alta com usuari
+Identificar-se
+Presentar nous Llibres
+Presentar nous autors
+Resaltar més venuts
+Mostrar recomanacions personalitzades
+Mostrar una Agenda cultural
+Registrarse per rebre newsletter
+Conectar-se amb les xarxes socials de la llibreria
+Veure detall d'un llibre
+Poder previsualitzar algún capitol
+Connectarte per RRSS amb l'autor
+Afegir llibres a la cistella de la compra
+Validar la cistella de la compra
+Webminars amb els autors
+Mostrar / Seleccionar opcions de recollida/enviament
+Realitzar el pagament
+Veure recomanacions d'altres compradors
+Xat de suport
+Xat de recomanacions
+Afegir Llibres
+Resaltar Llibres
+Modificar Llibres
+Esborrar Llibres
+Registrar transaccions
